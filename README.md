@@ -6,7 +6,7 @@
 
 ## 🎮 Live Demo
 
-🔗 **Play Here:** https://your-live-demo-link.com
+🔗 **Play Here:** https://memory-simon-game-sepia.vercel.app
 
 ---
 
