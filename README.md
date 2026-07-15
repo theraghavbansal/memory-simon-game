@@ -29,6 +29,7 @@
 - ❌ Instant game-over detection
 - 🔄 Restart game with a single key press
 - 🎨 Modern dark-themed responsive interface
+- 📱 Fully playable on desktop and mobile devices
 
 ---
 
