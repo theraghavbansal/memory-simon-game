@@ -13,9 +13,9 @@
 ## 📸 Preview
 
 
-```md
+
 ![Memory Simon Game](preview.png)
-```
+
 
 ---
 
