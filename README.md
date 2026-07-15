@@ -12,10 +12,9 @@
 
 ## 📸 Preview
 
-> Add a screenshot of your game here.
 
 ```md
-![Memory Simon](preview.png)
+![memory-simon-game](preview.png)
 ```
 
 ---
