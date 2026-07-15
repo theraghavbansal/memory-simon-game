@@ -24,6 +24,16 @@ document.addEventListener("keypress" ,function() {
     } 
 })
 
+document.addEventListener("touchstart" ,function() {
+    if(started == false){
+        console.log("game is started");
+       started = true;
+
+       levelUp();
+        
+    } 
+})
+
 function checkAns(idx){
         
         
