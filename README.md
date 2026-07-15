@@ -14,7 +14,7 @@
 
 
 ```md
-![memory-simon-game](preview.png)
+![Memory Simon Game](preview.png)
 ```
 
 ---
